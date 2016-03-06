@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Lincolnwood Lightning Swim Team
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -16,6 +16,29 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+menus:
+    main:
+    - Lightning Handbook & Fees:
+        - /swimteam-handbook/
+        - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees/
+        - Home & Away Meets: /swimteam-handbook/home-away-meets/
+        - Information: /swimteam-handbook/information/
+        - LLSC Apparel: /swimteam-handbook/llsc-apparel/
+        - Communication: /swimteam-handbook/communication/
+        - Championship Meet: /swimteam-handbook/2011-championship-meet/
+    - Calendar: /calendar/
+    - Practive Schedule: /practice-schedule/
+    - Stroke Clinic: /2010-stroke-clinic/
+    - Meet Schedule: /2008-meet-schedule/
+    - Meet Signup: /meet-signup/
+    - NISC Order of Events: /nisc-order-of-events/
+    - Maps: /maps/
+    - Photos: /photos/
+    - Kati Mendieta Sportmanship Award: /the-katina-mendieta-sportmanship-award/
+    - Lincolnwood Gear: /lincolnwood-gear-2013-2/
+    - Non-Resident Pass: /2008-non-resident-pass/
+
 
 # Build settings
 markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json]
