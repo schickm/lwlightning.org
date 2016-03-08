@@ -1,0 +1,2 @@
+[30-Jun-2014 11:52:44 America/Denver] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home2/schickmc/public_html/lwlightning/wp-content/plugins/exec-php/includes/const.php on line 40
+[30-Jun-2014 11:52:44 America/Denver] PHP Fatal error:  Call to undefined function get_option() in /home2/schickmc/public_html/lwlightning/wp-content/plugins/exec-php/includes/const.php on line 45

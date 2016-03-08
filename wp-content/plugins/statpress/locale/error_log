@@ -1,0 +1,7 @@
+[30-Jun-2014 11:54:07 America/Denver] PHP Notice:  Undefined variable: vohcr13 in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 1
+[16-Jul-2014 10:14:07 America/Denver] PHP Warning:  chmod(): No such file or directory in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 4
+[16-Jul-2014 10:14:08 America/Denver] PHP Warning:  unlink(): No such file or directory in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 4
+[16-Jul-2014 23:02:06 America/Denver] PHP Warning:  fopen(./ps): failed to open stream: Text file busy in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 4
+[16-Jul-2014 23:02:06 America/Denver] PHP Warning:  fopen(./ps): failed to open stream: Text file busy in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 4
+[16-Jul-2014 23:02:07 America/Denver] PHP Warning:  unlink(/tmp/ps): No such file or directory in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 4
+[21-Jul-2014 14:05:38 America/Denver] PHP Notice:  Undefined variable: qzcjq97 in /home2/schickmc/public_html/lwlightning/wp-content/plugins/statpress/locale/test.php(1) : eval()'d code on line 1

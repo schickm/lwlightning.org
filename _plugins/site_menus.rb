@@ -22,27 +22,53 @@ module Jekyll
       menu = site.config['menus'][@menu_name]
       level = 1
 
-      renderMenu(context, menu, level)
+      renderMenu(context, menu, level, nil)
     end
 
-    def renderMenu(context, menu, level)
+    def renderMenu(context, menu, level, subMenuName)
       indent = "  " * (level - 1)
       output = "#{indent}"
       isFirstLvl = level == 1
 
       # Give this menu an id attribute if we're on the first level.
       if (isFirstLvl)
-        output += "<ul id=\"#{@menu_name}-menu\" class=\"menu level-#{level}\">\n"
+        output += "<ul id=\"#{@menu_name}-menu\" class=\"nav navbar-nav level-#{level}\">\n"
       else
-        output += "<div class=\"sub-menu level-#{level}\"><ul class=\"menu sub-menu level-#{level}\">\n"
+        # output += "<div class=\"sub-menu level-#{level}\"><ul class=\"menu sub-menu level-#{level}\">\n"
+        output += "<li class=\"dropdown\">"
+        output += "<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">#{subMenuName} <span class=\"caret\"></span></a>\""
+        output += "<ul class=\"dropdown-menu\">"
       end
 
       indent = "  " * (level)
       menu.each do | item |
         item.each do | name, value |
           if (value.kind_of? String)
+            page_url = context.environments.first["page"]["url"]
+            uri = URI(value)
+
+            # Figure out if our menu item is currently selected.
+            selected = false
+            unless (uri.absolute?)
+              base_path= uri.path[-1, 1] == '/' ? uri.path : File.dirname(uri.path)
+              path_parts = base_path.split('/')
+              if (path_parts.size > 0)
+                selected = (/^#{base_path}/ =~ page_url) != nil
+              elsif (value == '/' and page_url == '/index.html')
+                selected = true
+              else
+                selected = value == page_url
+              end
+            end
+
             # Render the menu item
-            output += "#{indent}<li>\n"
+            output += "#{indent}<li"
+
+            if (selected)
+              output += " class=\"active\""
+            end
+
+            output += ">\n"
             output += renderMenuItem(context, name, value, level)
             output += "#{indent}</li>\n"
           elsif (value.kind_of? Array and value.size > 0)
@@ -54,7 +80,7 @@ module Jekyll
               submenu = value
             end
             # Render the sub-menu
-            output += renderMenu(context, submenu, level + 1)
+            output += renderMenu(context, submenu, level + 1, name)
             output += "#{indent}</li>\n"
           end
         end
@@ -65,34 +91,14 @@ module Jekyll
       if (isFirstLvl)
         output += "#{indent}</ul>\n"
       else
-        output += "#{indent}</ul></div>\n"
+        # output += "#{indent}</ul></div>\n"
+        output += "#{indent}</ul></li>"
       end
     end
 
     def renderMenuItem(context, name, value, level)
-      page_url = context.environments.first["page"]["url"]
-      uri = URI(value)
-
-      # Figure out if our menu item is currently selected.
-      selected = false
-      unless (uri.absolute?)
-        base_path= uri.path[-1, 1] == '/' ? uri.path : File.dirname(uri.path)
-        path_parts = base_path.split('/')
-        if (path_parts.size > 0)
-          selected = (/^#{base_path}/ =~ page_url) != nil
-        elsif (value == '/' and page_url == '/index.html')
-          selected = true
-        else
-          selected = value == page_url
-        end
-      end
-
       indent = "  " * level
-      output = "#{indent}  <a href=\"#{URI.escape(value)}\""
-      if (selected)
-        output += " class=\"selected\""
-      end
-      output += ">"
+      output = "#{indent}  <a href=\"#{URI.escape(value)}\">"
       output += name
       output += "</a>\n"
     end

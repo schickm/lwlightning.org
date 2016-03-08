@@ -13,30 +13,27 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://lwlightning.org" # the base hostname & protocol for your site
 menus:
     main:
     - Lightning Handbook & Fees:
-        - /swimteam-handbook/
         - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees/
         - Home & Away Meets: /swimteam-handbook/home-away-meets/
         - Information: /swimteam-handbook/information/
         - LLSC Apparel: /swimteam-handbook/llsc-apparel/
         - Communication: /swimteam-handbook/communication/
         - Championship Meet: /swimteam-handbook/2011-championship-meet/
+        - NISC Order of Events: /nisc-order-of-events/
+        - Lincolnwood Gear: /lincolnwood-gear-2013-2/
+        - Non-Resident Pass: /2008-non-resident-pass/
     - Calendar: /calendar/
     - Practive Schedule: /practice-schedule/
     - Stroke Clinic: /2010-stroke-clinic/
     - Meet Schedule: /2008-meet-schedule/
     - Meet Signup: /meet-signup/
-    - NISC Order of Events: /nisc-order-of-events/
     - Maps: /maps/
     - Photos: /photos/
-    - Kati Mendieta Sportmanship Award: /the-katina-mendieta-sportmanship-award/
-    - Lincolnwood Gear: /lincolnwood-gear-2013-2/
-    - Non-Resident Pass: /2008-non-resident-pass/
+
 
 
 # Build settings

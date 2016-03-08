@@ -1,0 +1,461 @@
+/*  
+Theme Name: Swimming World
+Theme URI: http://www.templatepanic.com/article/swimming-world-wordpress-theme
+Description: Swimming World Wordpress theme
+Author: Effi
+Author URI: http://www.effiharyanti.com/
+
+Terms of Use:
+- DO NOT REMOVE any of the links in the footer!
+- You are free to share, to copy, distribute and transmit this theme.
+- This theme is distributed for free. You are not allowed to sell this theme.
+Thanks for using this theme.
+*/
+
+body, h1, h2, h3, h4, h5, h6, address, blockquote, dd, dl, hr, p, form{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+	font-family: Verdana, Arial, Helvetica, Georgia, Sans-Serif;
+	font-size: 13px;
+	text-align: left;
+	color: #000;
+	background: #448ccb url(images/bg.jpg) repeat-y top center;
+}
+
+h1{
+	text-transform: uppercase;
+	font-size: 200%;
+	font-weight: normal;
+	padding-left: 10px; 
+	letter-spacing: 2px;
+	color: #f2f2f2;
+}
+
+h1 a{
+	text-decoration: none;
+	color: #f2f2f2;
+}
+
+h1 a:hover{ color: #ccc; text-decoration: none; }
+
+h2, h3, h4, h5, h6{
+	font-size: 150%;
+	font-weight: normal;
+}
+
+a{
+	text-decoration: none;
+	color: #0a63af;
+}
+
+a:hover{ color: #0b3961; text-decoration: underline; }
+
+a img{ border: 0; }
+
+abbr, acronym{ border: 0; }
+
+address, dl, p{ padding: 15px 0 0; }
+
+blockquote{
+	margin: 15px 0 0;
+}
+
+blockquote p{ padding: 15px; }
+
+blockquote blockquote{
+	margin: 15px;
+}
+
+code{ }
+
+dt{ font-weight: bold; }
+
+dd{ padding: 0 0 0 15px; }
+
+hr{
+	clear: both;
+	margin: 15px 15px 5px 15px;
+	border: 0;
+	height: 1px;
+	color: #555;
+}
+
+small{
+	font-size: 90%;
+}
+
+pre{
+	width: 90%;
+}
+
+input, textarea{
+	padding: 2px;
+}
+
+input#s, input#author, input#email, input#url, textarea#comment{
+	border: 1px solid #424242;
+	padding: 3px;
+}
+
+input#author, input#email, input#url{
+	margin: 0 5px 0 0;
+}
+
+body, #container, .sidebar, #container-page, .page, .maincol, .sidebarr, .topmenu, .headerimg, .footer, .post, .entry, .postmeta, .pn{
+	vertical-align: top;	
+}
+
+#header { 
+	margin: 0 auto;
+	width: 928px;
+	padding: 0px 0; 
+	line-height: 60px; 
+	color: #f1f1f1; 
+	background: #111;
+	} 
+
+
+#container{
+	margin: 0 auto;
+	width: 928px;
+	padding: 0px 0;
+}
+
+.sidebar{
+	float: left;
+	width: 208px;
+	font-size: 90%;
+	margin: 0;
+	color: #222;
+}
+
+.sidebar a:hover{
+	text-decoration: none;
+}
+
+.sidebar ul{
+	margin: 0;
+	padding: 10px 0 0 0;
+	list-style: none;
+}
+
+.sidebar ul li#search input{
+	margin: 0 0 5px;
+}
+
+.sidebar ul li{
+	list-style: none;
+	margin: 0;
+	padding-left: 10px;
+}
+
+.sidebar ul li form{
+	margin: 0;
+}
+
+.sidebar ul li input{
+}
+
+.sidebar ul li h2{
+	padding: 25px 0 4px 0;
+	color: #7a7a7a;
+}
+
+.sidebar ul ul{
+	padding-top: 0;
+	line-height: 19px;
+}
+
+.sidebar ul ul li{
+	padding: 5px 0 0;
+	line-height: 20px;
+	border-bottom: 1px solid #888;
+}
+
+.sidebar ul ul li h2{
+	padding: 0;
+}
+
+.sidebar ul ul ul{
+	padding: 0 0 10px 10px;
+}
+
+.sidebar ul ul ul ul{
+	padding: 0 0 0 10px;
+}
+
+#container-page{
+	float: left;
+	margin: 0 0 0 10px;
+	width: 710px;
+	background: url(images/bg-inside.jpg) repeat-y top right;
+}
+
+.headerimg {
+	float: left;
+	width: 690px;
+	height: 200px;
+	padding: 5px;
+	margin: 0;
+	background: url(/banner_rotate.php) no-repeat;
+}
+
+.page{
+	float: left;
+	padding: 10px;
+}
+
+.maincol{
+	float: left;
+	width: 568px;
+	padding: 10px 0 0;
+	background: #fff;
+}
+
+.topmenu{
+	float: left;
+	padding: 0 0 0 10px;
+	text-transform: uppercase;
+	width: 568px;
+}
+
+.topmenu ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.topmenu ul li{
+	float: left;
+	margin: 0;
+	font-size: 95%;
+	font-weight: bold;
+	background: url(images/topnav-blue.jpg) repeat-x left top;
+}
+
+.topmenu ul li a{
+	display: block;
+	padding: 6px 20px;
+	text-decoration: none;
+	color: #393939;
+}
+
+.topmenu ul li a:hover{
+	text-decoration: none;
+	color: #393939;
+	background: url(images/topnav-blue-hover.jpg) repeat-x left top;
+}
+
+.topmenu ul li.current_page_item a{
+	color: #393939;
+	background: url(images/topnav-blue-current.jpg) repeat-x left top;
+}
+
+
+
+.post{
+	margin: 0 10px 10px;
+}
+
+.post h2{
+	padding: 8px 10px 0 10px;
+}
+
+.post h2 a {
+	color: #111;
+}
+
+.post h2 a:hover {
+	color: #444;
+	text-decoration: none;
+}
+
+.entry{
+	padding: 0 10px 10px;
+}
+
+.entry h1, .entry h2, .entry h3, .entry h4, .entry h5, .entry h6{
+	padding: 15px 0 0 0;
+}
+
+.entry h1{
+	font-size: 200%;
+	line-height: 36px;
+}
+
+.entry h2{
+	line-height: 20px;
+	background-color: transparent;
+	background-image: none;
+}
+
+.entry h3{
+	font-size: 130%;
+	font-weight: bold;
+}
+
+.entry h4{
+	font-size: 110%;
+	font-weight: bold;
+}
+
+
+.entry img{
+	padding: 4px;
+	background: #fff;
+}
+
+.entry img.wp-smiley{
+	padding: 0;
+	background-color: transparent;
+}
+
+.entry img.alignleft, .entry img.alignright{
+	float: left;
+	margin: 6px 10px 0 0;
+	border-top: 1px solid #303030;
+	border-bottom: 1px solid #303030;
+}
+
+.entry img.alignright{
+	float: right;
+	margin: 6px 0 0 10px;
+}
+
+.entry{
+	line-height: 20px;
+}
+
+.postmeta{
+	padding: 10px;
+	margin-bottom: 20px;
+	line-height: 15px;
+	font-size: 90%;
+	background: #ececec;
+}
+
+.browse{
+	margin: 0 10px 10px;
+	padding: 0 10px 10px;
+	line-height: 20px;
+}
+
+.sidebarr{
+	float: left;
+	width: 122px;
+	color: #444;
+	font-size: 90%;
+	margin: 0;
+}
+
+.sidebarr a {
+	color: #676767;
+}
+.sidebarr a:hover {
+	color: #494949;
+	text-decoration: none;
+}
+
+.sidebarr ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sidebarr ul li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.sidebarr ul li h2{
+	padding: 8px 10px;
+}
+
+.sidebarr ul ul{
+	padding: 0px 0 0px 10px;
+	line-height: 19px;
+}
+
+.sidebarr ul ul li{
+	border: 0;
+	padding: 5px 0 0;
+	line-height: 20px;
+	border-bottom: 1px solid #888;
+}
+
+.sidebarr ul ul li h2{
+	padding: 0;
+}
+
+.comments-template{
+}
+
+.comments-template h3{
+	font-size: 120%;
+	font-weight: normal;
+	padding: 8px 10px;
+	color: #444;
+}
+
+.comments-template ol{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 20px;
+}
+
+.comments-template ol li{
+	padding: 10px;
+}
+
+/* wp-calendar */
+
+table#wp-calendar{
+	width: 100%;
+	text-transform: none;
+	line-height: 15px;
+	text-align: center;
+}
+
+table#wp-calendar caption{
+	padding: 10px 15px;
+}
+
+table#wp-calendar th{
+	vertical-align: top;
+}
+
+table#wp-calendar td{
+	padding: 2px;
+}
+
+table#wp-calendar tfoot td{
+}
+
+/* end calendar */
+
+.footer{
+	float: left;
+	text-align: left;
+	margin: 0;
+	width: 690px;
+	padding: 10px 0 0 0;
+	font-size: 90%;
+	color: #666;
+}
+
+.footer a {
+	color: #494949;
+	font-weight: bold;
+}
+
+.footer p{
+	margin: 0;
+	padding: 10px;
+}
