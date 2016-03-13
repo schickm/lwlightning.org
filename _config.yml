@@ -16,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lwlightning.org" # the base hostname & protocol for your site
 menus:
     main:
-    - Lightning Handbook & Fees:
+    - Handbook & Fees:
         - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees.html
         - Home & Away Meets: /swimteam-handbook/home-away-meets.html
         - Information: /swimteam-handbook/information.html
@@ -24,11 +24,11 @@ menus:
         - Communication: /swimteam-handbook/communication.html
         - Championship Meet: /swimteam-handbook/2011-championship-meet.html
         - NISC Order of Events: /nisc-order-of-events.html
-        - Lincolnwood Gear: /lincolnwood-gear-2013-2.html
         - Non-Resident Pass: /2008-non-resident-pass.html
-    - Calendar: /calendar/
+    - Calendar: /calendar.html
     - Practice Schedule: /practice-schedule/
     - Stroke Clinic: /2010-stroke-clinic/
+    - Gear: /lincolnwood-gear.html
     - Meet Schedule: /2008-meet-schedule/
     - Meet Signup: /meet-signup/
     - Maps: /maps/
