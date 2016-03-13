@@ -17,7 +17,7 @@ url: "http://lwlightning.org" # the base hostname & protocol for your site
 menus:
     main:
     - Lightning Handbook & Fees:
-        - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees/
+        - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees.html
         - Home & Away Meets: /swimteam-handbook/home-away-meets/
         - Information: /swimteam-handbook/information/
         - LLSC Apparel: /swimteam-handbook/llsc-apparel/
