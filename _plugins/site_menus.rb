@@ -49,16 +49,9 @@ module Jekyll
 
             # Figure out if our menu item is currently selected.
             selected = false
+
             unless (uri.absolute?)
-              base_path= uri.path[-1, 1] == '/' ? uri.path : File.dirname(uri.path)
-              path_parts = base_path.split('/')
-              if (path_parts.size > 0)
-                selected = (/^#{base_path}/ =~ page_url) != nil
-              elsif (value == '/' and page_url == '/index.html')
-                selected = true
-              else
-                selected = value == page_url
-              end
+              selected = value == page_url
             end
 
             # Render the menu item

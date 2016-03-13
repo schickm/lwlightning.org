@@ -18,14 +18,14 @@ menus:
     main:
     - Lightning Handbook & Fees:
         - Swim Team Fees (2015): /swimteam-handbook/summer-season-swim-team-fees.html
-        - Home & Away Meets: /swimteam-handbook/home-away-meets/
-        - Information: /swimteam-handbook/information/
-        - LLSC Apparel: /swimteam-handbook/llsc-apparel/
-        - Communication: /swimteam-handbook/communication/
-        - Championship Meet: /swimteam-handbook/2011-championship-meet/
-        - NISC Order of Events: /nisc-order-of-events/
-        - Lincolnwood Gear: /lincolnwood-gear-2013-2/
-        - Non-Resident Pass: /2008-non-resident-pass/
+        - Home & Away Meets: /swimteam-handbook/home-away-meets.html
+        - Information: /swimteam-handbook/information.html
+        - LLSC Apparel: /swimteam-handbook/llsc-apparel.html
+        - Communication: /swimteam-handbook/communication.html
+        - Championship Meet: /swimteam-handbook/2011-championship-meet.html
+        - NISC Order of Events: /nisc-order-of-events.html
+        - Lincolnwood Gear: /lincolnwood-gear-2013-2.html
+        - Non-Resident Pass: /2008-non-resident-pass.html
     - Calendar: /calendar/
     - Practice Schedule: /practice-schedule/
     - Stroke Clinic: /2010-stroke-clinic/
