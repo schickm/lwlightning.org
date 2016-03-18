@@ -19,7 +19,7 @@ categories:
 tags: []
 comments: []
 ---
-<a title="2014 Non Residents Pass Link" href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/">
+<a title="2014 Non Residents Pass Link" href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/non-resident-aquatic-center-information/">
         2014 Non-Resident Membership Information
 </a>
 

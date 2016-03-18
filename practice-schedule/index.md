@@ -27,6 +27,8 @@ Practice is IMPORTANT! Swimmers need to attend practice sessions in order to enj
 
 These guidelines have been set by our coaches.
 
+Practice Days are Monday - Friday. No practice Wednesday PM or Thursday AM due to swim meets.
+
 <table class='table'>
     <thead>
         <tr>
@@ -54,71 +56,72 @@ These guidelines have been set by our coaches.
     </tbody>
 </table>
 
-#### Practice Days Monday- Friday (No practice Wednesday pm or Thursday am due to swim meets)
-
 ### Morning Practice
+
+7:30 swimmers must be ready to start at 7:30, NOT 7:45!
+
+Also the lanes you swim in may change due to the group size for that morning, but not the time you start. Please try to arrive on time.
 
 <table class='table'>
     <tbody>
         <tr>
-        <td>6:00</td></p>
-        <td>Senior &amp; Gold</td></p>
+        <td>6:00</td>
+        <td>Senior &amp; Gold</td>
         <td>Lanes 1, 2, 4, 5, 6</td>
-        </tr></p>
+        </tr>
         <tr>
-        <td>7:30</td></p>
-        <td>Gold &amp; Silver</td></p>
+        <td>7:30</td>
+        <td>Gold &amp; Silver</td>
         <td>Lanes 2 &amp; 3</td>
-        </tr></p>
+        </tr>
         <tr>
-        <td>7:30</td></p>
-        <td>Bronze</td></p>
+        <td>7:30</td>
+        <td>Bronze</td>
         <td>Lanes 4 &amp; 5</td>
-        </tr></p>
+        </tr>
         <tr>
-        <td>7:30</td></p>
-        <td>Blue</td></p>
+        <td>7:30</td>
+        <td>Blue</td>
         <td>Diving Well</td>
-        </tr></p>
+        </tr>
         <tr>
-        <td>7:45</td></p>
-        <td>White 1 &amp; 2</td></p>
+        <td>7:45</td>
+        <td>White 1 &amp; 2</td>
         <td>Lane 6</td>
         </tr>
     </tbody>
 </table>
 
 
-<address>*7:30 swimmers must be ready to start at 7:30 , NOT&nbsp; 7:45)</address></p>
-<pre></pre><br />
-Also the lanes you swim in may change due to the group size for that morning, but not the time you start.<br />
-Please try to arrive on time.</p>
-<h4>Afternoon Practice: 5:00 - 6:30</h4></p>
-<table>
+### Afternoon Practice
+
+All groups practice from 5:00 - 6:30.
+
+<table class='table'>
 <tbody>
 <tr>
-<td>Senior &amp; Gold</td></p>
-<td>Lanes 1 &amp; 2</td><br />
-</tr></p>
+<td>Senior &amp; Gold</td>
+<td>Lanes 1 &amp; 2</td>
+</tr>
 <tr>
-<td>Silver</td></p>
-<td>Lanes 2 &amp; 3</td><br />
-</tr></p>
+<td>Silver</td>
+<td>Lanes 2 &amp; 3</td>
+</tr>
 <tr>
-<td>Bronze &amp; Blue 2</td></p>
-<td>Lanes 4 &amp; 5</td><br />
-</tr></p>
+<td>Bronze &amp; Blue 2</td>
+<td>Lanes 4 &amp; 5</td>
+</tr>
 <tr>
-<td>Blue 1</td></p>
-<td>Diving Well</td><br />
-</tr></p>
+<td>Blue 1</td>
+<td>Diving Well</td>
+</tr>
 <tr>
-<td>White 2</td></p>
-<td>Lane 6 - Deep End</td><br />
-</tr></p>
+<td>White 2</td>
+<td>Lane 6 - Deep End</td>
+</tr>
 <tr>
-<td>White 1</td></p>
-<td>Lane 6 - Shallow End</td><br />
-</tr><br />
-</tbody><br />
-</table></p>
+<td>White 1</td>
+<td>Lane 6 - Shallow End</td>
+</tr>
+</tbody>
+</table>
