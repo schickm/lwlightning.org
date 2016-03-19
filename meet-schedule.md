@@ -2,7 +2,8 @@
 layout: page
 status: publish
 published: true
-title: Meet Schedule (2015)
+title: Meet Schedule
+title_small: 2015
 author:
   display_name: jim
   login: jim

@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Registration & Schedule
+title_small: 2015
 author:
   display_name: jim
   login: jim

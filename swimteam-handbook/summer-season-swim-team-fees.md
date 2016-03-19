@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Swim Team Fees (2015)
+title: Swim Team Fees
+title_small: 2015
 author:
   display_name: jim
   login: jim

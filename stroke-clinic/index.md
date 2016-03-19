@@ -2,7 +2,8 @@
 layout: page
 status: publish
 published: true
-title: Stroke Clinic (2015)
+title: Stroke Clinic
+title_small: 2015
 author:
   display_name: jim
   login: jim

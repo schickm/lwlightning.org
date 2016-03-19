@@ -2,7 +2,8 @@
 layout: page
 status: publish
 published: true
-title: Lincolnwood Gear (2015)
+title: Lincolnwood Gear
+title_small: 2015
 author:
   display_name: jim
   login: jim
