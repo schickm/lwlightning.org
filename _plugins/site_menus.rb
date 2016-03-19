@@ -36,7 +36,7 @@ module Jekyll
       else
         # output += "<div class=\"sub-menu level-#{level}\"><ul class=\"menu sub-menu level-#{level}\">\n"
         output += "<li class=\"dropdown\">"
-        output += "<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">#{subMenuName} <span class=\"caret\"></span></a>\""
+        output += "<a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">#{subMenuName} <span class=\"caret\"></span></a>"
         output += "<ul class=\"dropdown-menu\">"
       end
 
