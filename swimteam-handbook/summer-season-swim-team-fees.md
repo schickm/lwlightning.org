@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swim Team Fees
-title_small: 2015
+title_small: 2016
 author:
   display_name: jim
   login: jim
@@ -20,9 +20,9 @@ comments: []
 ---
 Fill out the registration form using the information listed below.  Then fax, mail, or take to the address listed on the form.
 
-<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2015 Fillable Registration Form</a>
+<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2016 Fillable Registration Form</a>
 
-### 2015 Swim Team Program # 206702.B
+### 2016 Swim Team Program # 206702.B
 <table class='table'>
 <tbody>
 <tr>
@@ -58,6 +58,6 @@ For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-97
 
 #### More Info
 
-This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2015 Summer Program</a>
+This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2016 Summer Program</a>
 
-Scroll to <strong>Page 12</strong>
+Scroll to <strong>Page 16</strong>
