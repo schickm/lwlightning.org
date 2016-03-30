@@ -63,3 +63,16 @@ nav {
 .navbar-brand {
     padding: 5px 15px;
 }
+
+.medieta-award-cell img {
+    width: 100%;
+}
+
+.carousel-inner .item {
+    height: 500px;
+
+    img {
+        height: 100%;
+        width: auto;
+    }
+}

@@ -36,9 +36,11 @@ Please help us in honoring the memory of our lost team member.
 
 ## Current Recipients
 
-<img class="aligncenter size-full wp-image-824" src="/wp-content/uploads/2008/03/P1090372.jpg" alt="2014 Mendieta Winners" width="457" height="343" />
+<img src="/images/katina_mendiata/2015_winners_small.jpeg" />
 
 ## Past Recipients
+
+<img class="aligncenter size-full wp-image-824" src="/wp-content/uploads/2008/03/P1090372.jpg" alt="2014 Mendieta Winners" width="457" height="343" />
 
 <img class="aligncenter size-full wp-image-703" title="katina_2013" src="/wp-content/uploads/2013/12/katina_2013.jpg" alt="" width="457" height="353" />
 

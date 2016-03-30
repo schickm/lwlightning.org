@@ -6,10 +6,10 @@ layout: default
     <h1>Lincolnwood Lightning Swim Club</h1>
 </div>
 
-<div class='row'>
+<!-- <div class='row'>
     <div class='col-lg-12'>
         <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-          <!-- Indicators -->
+
           <ol class="carousel-indicators">
             <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
@@ -17,10 +17,10 @@ layout: default
             <li data-target="#carousel-example-generic" data-slide-to="3"></li>
           </ol>
 
-          <!-- Wrapper for slides -->
+
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="/images/carousel/P1110220a.jpg">
+              <img src="/images/katina_mendiata/2015_winners_small.jpeg">
             </div>
             <div class="item">
               <img src="/images/theme/background.jpg">
@@ -33,7 +33,7 @@ layout: default
             </div>
           </div>
 
-          <!-- Controls -->
+
           <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
@@ -44,7 +44,7 @@ layout: default
           </a>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class='row'>
     <div class='col-lg-4'>
@@ -61,10 +61,10 @@ layout: default
     <div class='col-lg-4'>
 
     </div>
-    <div class='col-lg-4'>
+    <div class='col-lg-4 medieta-award-cell'>
         <h2>Mendieta Award</h2>
         <p>Last Years winners:</p>
-        <p><img src='/images/katina_mendiata/2014_winners.jpg' /></p>
+        <p><img src='/images/katina_mendiata/2015_winners_small.jpeg' /></p>
         <p>
             <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View Past Winners »</a>
         </p>

@@ -34,7 +34,7 @@ Summer Lincolnwood Program Guide
 * No walk-in registrations will be accepted at the Recreation Office.
 * Any mail-in registrations received at the Recreation Office will be returned to the sender.
 * Any faxed-in registrations will be disregarded.
-* The Recreation Office will be open on Saturday, May 21st, May 28th, and June 4th for non-residents to come in and get their membership pass ID photos taken from 9am to noon.
+* The Recreation Office will be open on Thursday, May 19th, until 7pm,  for non-residents to come in and get their membership pass ID photos taken.
 * 2015 pool members will not have to retake a photo. Your pass from last year will be reactivated when your registration is processed.
 * If you are a new member this year, every member of your family who will be getting a pass will need to come in and get a photo ID.
 * Membership cards are NOT TRANSFERABLE.
