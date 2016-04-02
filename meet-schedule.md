@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Schedule
-title_small: 2015
+title_small: 2016
 author: 
   display_name: jim
   login: jim
@@ -21,26 +21,23 @@ tags: []
 comments: []
 ---
 
-### June 10th 
+### June 15th
+TBA at Lincolnwood
 
-Wild at Lincolnwood
+### June 22nd
+Lincolnwood At Arlington Heights
 
-### June 17th
+### June 29th
+River Trails at Lincolnwood 
 
-River Trails at Lincolnwood
+### July 6th
+Lincolnwood at Round Lake
 
-### July 1st
-
-Arlington Hgts at Lincolnwood
-
-### July 8th
-
+### July 13th (possible)
 Mt Prospect at Lincolnwood
 
-### July 15th
+### July 20th
+Buffalo Grove at Lincolnwood 
 
-Lincolnwood at Buffalo Grove
-
-### July 22nd
-
-Conference Meet at Lincolnwood
+### July 27th
+Conference Meet at Round Lake
