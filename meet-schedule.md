@@ -35,8 +35,12 @@ Arlington Hgts at Lincolnwood
 
 ### July 8th
 
-Mt Prospect at Lincolnwood</p>
-<h4>July 15th</h4>
-<p>Lincolnwood at Buffalo Grove</p>
-<h4>July 22nd</h4>
-<p>Conference Meet at Lincolnwood</p>
+Mt Prospect at Lincolnwood
+
+### July 15th
+
+Lincolnwood at Buffalo Grove
+
+### July 22nd
+
+Conference Meet at Lincolnwood
