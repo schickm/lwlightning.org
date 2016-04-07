@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Lincolnwood Gear
-title_small: 2015
+title_small: 2016
 author:
   display_name: jim
   login: jim
@@ -29,6 +29,6 @@ We have changed our supplier but not our choices for the other Gear, in fact thi
 
 Also included this year you will see an assortment of recommended goggles. They range from Junior &amp; Kids to Adult. Remember Junior &amp; Kids goggles have somewhat smaller lenses and the lenses are closer together to accommodate smaller features. You will notice they are tinted or mirrored. These are for daytime outdoor swimming. If you have clear goggles now you may find you will like a pair of tinted or mirrored goggles for the summer.
 
-#### For more information about the Lightning Gear:
+#### For more information about additional Lightning Gear:
 
 <a title="Lightning Gear" href="http://www.thelifeguardstore.com/lgsteams/productcart/pc/viewCategories.asp?idCategory=2515&amp;idAffiliate=436">LIGHTNING GEAR</a>
