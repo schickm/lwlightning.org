@@ -40,9 +40,13 @@ The first 2 days will be devoted to Freestyle only, for everyone. We will have l
 
 We will continue freestyle and also begin Backstroke for those ready, as well as introduce backstroke stroke components to some beginning levels.
 
-#### No Clinic Monday 5/25 Memorial Day !!
+#### Begin Session 3 Breaststroke Friday 5/27
 
-#### Session 3 Breaststroke 5/27, &amp; 5/31  (Fri. &amp; Tues.)
+We will continue freestyle and backstroke and also begin Breaststroke for those ready
+
+#### No Clinic Monday 5/30 Memorial Day !!
+
+#### Continue Session 3 Breaststroke Tuesday 5/31  (Fri. &amp; Tues.)
 
 We will continue freestyle and backstroke and also begin Breaststroke for those ready, as well as introduce limited breaststroke components to some beginning levels.
 
