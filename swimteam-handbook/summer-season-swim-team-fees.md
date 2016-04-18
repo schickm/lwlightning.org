@@ -18,11 +18,8 @@ categories:
 tags: []
 comments: []
 ---
-Fill out the registration form using the information listed below.  Then fax, mail, or take to the address listed on the form.
 
-<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2016 Fillable Registration Form</a>
-
-### 2016 Swim Team Program # 206702.B
+#### 2016 Swim Team Program # 206702.B
 <table class='table'>
 <tbody>
 <tr>
@@ -49,9 +46,17 @@ Fill out the registration form using the information listed below.  Then fax, ma
 </tbody>
 </table>
 
+### Registration
+
+<a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206702'>Click here to register online for Swim Team at the Village of Lincolnwood website</a>.
+
+You may also register by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
+
+<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2016 Fillable Registration Form</a>
+
 ### New to the Lightning Team?
 
-You must also register for stroke clinic.
+You must also register for stroke clinic.  This can also be done online.  <a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206701'>Click here to register for Lincolnwood Stroke Clinic</a>
 
 Incentive: Receive $10 off swim team when registering for stroke clinic.
 For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-9740
