@@ -63,10 +63,10 @@ layout: default
     </div>
     <div class='col-lg-4 medieta-award-cell'>
         <h2>Mendieta Award</h2>
-        <p>Last Years winners:</p>
+        <p>Last Years Recipients:</p>
         <p><img src='/images/katina_mendiata/2015_winners_small.jpeg' /></p>
         <p>
-            <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View Past Winners »</a>
+            <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View Past Recipients »</a>
         </p>
     </div>
 </div>
