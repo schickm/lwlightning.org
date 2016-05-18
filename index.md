@@ -7,18 +7,6 @@ layout: default
 </div>
 
 <div class='row'>
-    <div class='col-lg-12 carousel-wrap'>
-          <div class="slick-carousel">
-
-              <img src="/images/katina_mendiata/2015_winners_small.jpeg">
-              <img src="/images/theme/background.jpg">
-              <img src="/images/theme/background2.jpg">
-              <img src="/images/theme/background3.jpg">
-          </div>
-    </div>
-</div>
-
-<div class='row'>
     <div class='col-lg-4'>
         <h2>Upcoming Events</h2>
         <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=r44o6u4ceeoeji3e26n2pdm0do%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FMexico_City"
@@ -43,7 +31,15 @@ layout: default
     </div>
 </div>
 <div class='row'>
+    <div class='col-lg-12 carousel-wrap'>
+          <div class="slick-carousel">
 
+              <img src="/images/katina_mendiata/2015_winners_small.jpeg">
+              <img src="/images/theme/background.jpg">
+              <img src="/images/theme/background2.jpg">
+              <img src="/images/theme/background3.jpg">
+          </div>
+    </div>
 </div>
 
 
