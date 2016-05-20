@@ -34,10 +34,13 @@ layout: default
     <div class='col-lg-12 carousel-wrap'>
           <div class="slick-carousel">
 
-              <img src="/images/katina_mendiata/2015_winners_small.jpeg">
-              <img src="/images/theme/background.jpg">
-              <img src="/images/theme/background2.jpg">
-              <img src="/images/theme/background3.jpg">
+              <img src="/images/carousel/P1100599.jpg">
+              <img src="/images/carousel/P1100609.jpg">
+              <img src="/images/carousel/P1100598.jpg">
+              <img src="/images/carousel/P1100595.jpg">
+              <img src="/images/carousel/P1100593.jpg">
+              <img src="/images/carousel/P1100800.jpg">
+              <img src="/images/carousel/P1100802.jpg">
           </div>
     </div>
 </div>
