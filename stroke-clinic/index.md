@@ -25,7 +25,7 @@ comments: []
 
 You can now register online until May 23rd (the 1st day of stroke clinic)! <a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206701'>Click here to register for Stroke Clinic on the Village of Lincolnwood website.</a>
 
-Note: _Stroke click is required for new swim team members._
+Note: _Stroke clinic is required for new swim team members._
 
 
 ### Progression through Stroke Clinic
