@@ -19,9 +19,9 @@ tags: []
 comments: []
 ---
 
-860 Hart Road
-Round Lake, IL  60073
-(847) 546-8558
+860 Hart Road<br>
+Round Lake, IL  60073<br>
+(847) 546-8558<br>
 
 * Edens (94) Expressway to 94 Tollway going North
 * Exit at 120 West Belvidere Rd  ( for about 11 miles)
