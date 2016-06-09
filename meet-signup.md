@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Signup
-title_small: 2015
+title_small: 2016
 author:
   display_name: jim
   login: jim
