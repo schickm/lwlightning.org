@@ -21,14 +21,14 @@ tags: []
 comments: []
 ---
 
-### June 15th
+### June 22nd at Arlington Heights
 TBA at Lincolnwood
 
-### June 22nd
+### June 25th @ Lincolnwood (Intersquad) 7:30am warm up
 Lincolnwood At Arlington Heights
 
 ### June 29th
-River Trails at Lincolnwood 
+River Trails at Lincolnwood 4pm warm up
 
 ### July 6th
 Lincolnwood at Round Lake
