@@ -29,7 +29,7 @@ NOTE: You can only signup for volunteering from a laptop or desktop computer.&nb
 
 <a href="https://docs.google.com/spreadsheets/d/1sHUpG21vNWKeyipUb2kFeDL7Sg28kByWd2YXhhJYpGE/edit?usp=sharing">6/29 River Trails</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1PnZJAZ1ti2njnMEdu2hsxK4xXX1OZmywe486c3pExn0/edit?usp=sharing">6/24 TBA</a>
+<a href="https://docs.google.com/spreadsheets/d/1PnZJAZ1ti2njnMEdu2hsxK4xXX1OZmywe486c3pExn0/edit?usp=sharing">7/6 at Round Lake</a>
 
 <a href="https://docs.google.com/spreadsheets/d/10T6XxJEANt2sDnuGtJF4xIxTSzrPwmvC7_gfi-Txhyo/edit?usp=sharing">7/13 TBA with Mt. Prospect</a>
 
