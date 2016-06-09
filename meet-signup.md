@@ -25,7 +25,7 @@ Below are the parent volunteer links, we ask that you volunteer for at least two
 
 NOTE: You can only signup for volunteering from a laptop or desktop computer.&nbsp; If you can't signup for any reason, then just email Jim directly with the dates and positions you'd like to volunteer for.&nbsp; Jim's email: <a href="mailto:babaramdas4@gmail.com">babaramdas4@gmail.com</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1_ZAw55JaCzDhW_TR5CoBL4zHXZBtrHM6XP5A3X1uXtk/edit?usp=sharing">6/10 Northwestern (Practice Meet)</a>
+<a href="https://docs.google.com/spreadsheets/d/1_ZAw55JaCzDhW_TR5CoBL4zHXZBtrHM6XP5A3X1uXtk/edit?usp=sharing">6/22 at Arlington Heights</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1sHUpG21vNWKeyipUb2kFeDL7Sg28kByWd2YXhhJYpGE/edit?usp=sharing">6/29 River Trails</a>
 
