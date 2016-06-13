@@ -25,11 +25,7 @@ Below are the parent volunteer links, we ask that you volunteer for at least two
 
 NOTE: You can only signup for volunteering from a laptop or desktop computer.&nbsp; If you can't signup for any reason, then just email Jim directly with the dates and positions you'd like to volunteer for.&nbsp; Jim's email: <a href="mailto:babaramdas4@gmail.com">babaramdas4@gmail.com</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1Ux6pbuRZ81_xATx7c-axQUjXfpxvwJ0WaNlwqFZy9lk/edit?usp=sharing">6/22 at Arlington Heights</a>
-
 <a href="https://docs.google.com/spreadsheets/d/1r_dxO6ikjlWhi-R2gfoBKDecdO0VFj07l51xyDBmdB8/edit?usp=sharing">6/29 River Trails</a>
-
-<a href="https://docs.google.com/spreadsheets/d/12NkpP7UwcJ1TGaeHmQdc6l_6m06sl0wAB_SB714Cgvc/edit?usp=sharing">7/6 at Round Lake</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1sp74xqqksSDDLqimeeSCKRPercrkB6ULKmCZhVxi9k0/edit?usp=sharing">7/13 TBA with Mt. Prospect</a>
 
