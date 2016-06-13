@@ -45,5 +45,5 @@ So that we can create the best lineup for our meets, please fill out the form li
 <h2>BBQ Potluck Sign Up</h2><br />
 Below is a link to the spread sheet where you can let us know what you'll be bringing for the BBQ.
 
-<a href="https://docs.google.com/spreadsheets/d/1QjiByURojGQnuTRVMvlnpDl2kNdvY58RxUUFDb5n1Iw/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
+<a href="https://docs.google.com/spreadsheets/d/18im6LQcNcJNLGBPuotib6bwwHymF01F8zl6Ogd4dgI4/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
 
