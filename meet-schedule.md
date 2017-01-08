@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Schedule
-title_small: 2016
+title_small: 2017
 author: 
   display_name: jim
   login: jim
@@ -21,23 +21,23 @@ tags: []
 comments: []
 ---
 
-### June 22nd 
-at Arlington Heights
+### June 21st 
+at Mt. Prospect
 
-### June 25th 
- At Lincolnwood (Intersquad) 7:30am warm up
+### June 24th 
+At Lincolnwood (Intersquad) 7:30am warm up
 
-### June 29th
-River Trails at Lincolnwood 4pm warm up
+### June 28th
+at Buffaol Grove
 
-### July 6th
-Lincolnwood at Round Lake
+### July 5th
+At Lincolnwood vs Round Lake (4pm Linc Warm Up)
 
-### July 13th (possible)
-Mt Prospect at Lincolnwood
+### July 12th
+At Lincolnwood vs McHenry (4pm Linc Warm Up)
 
-### July 20th
-Buffalo Grove at Lincolnwood 
+### July 18th
+At Lincolnwood vs Arl. Heights (4pm Linc Warm Up)
 
-### July 27th
-Conference Meet at Round Lake
+### July 26th
+Conference Meet at Mt. Prospect
