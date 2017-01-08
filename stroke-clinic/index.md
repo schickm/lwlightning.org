@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Stroke Clinic
-title_small: 2016
+title_small: 2017
 author:
   display_name: jim
   login: jim
