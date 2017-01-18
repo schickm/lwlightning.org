@@ -28,7 +28,7 @@ at Mt. Prospect
 At Lincolnwood (Intersquad) 7:30am warm up
 
 ### June 28th
-at Buffaol Grove
+at Buffalo Grove
 
 ### July 5th
 At Lincolnwood vs Round Lake (4pm Linc Warm Up)
