@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Non-Resident Pass
-title_small: 2016
+title_small: 2017
 author:
 display_name: jim
 login: jim
@@ -22,7 +22,7 @@ comments: []
 ---
 
 
-Non-Residents can register online by going to <a href="http://www.lincolnwoodil.org">http://www.lincolnwoodil.org</a>, beginning 10:00am on Saturday, April 16th 2016. It is extremely important to have all information ready at the time of registration.
+Non-Residents can register online by going to <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/">http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/</a>, beginning 10:00am on Saturday, April 22nd 2017. It is extremely important to have all information ready at the time of registration.
 
 Please check this website approximately two weeks prior for more information.
 
@@ -30,12 +30,12 @@ Summer Lincolnwood Program Guide
 
 ###  General Pool Pass Info
 
-* Online registration will be on a first come - first served basis until we sell 2000 passes.
-* No walk-in registrations will be accepted at the Recreation Office.
+* Online registration will be on a first come - first served basis until passes are sold out.
+* If all passes are not sold online on April 22,  remaining passes will be available for purchase in the Parks and Recreation office in Village Hall. 
 * Any mail-in registrations received at the Recreation Office will be returned to the sender.
 * Any faxed-in registrations will be disregarded.
 * The Recreation Office will be open on Thursday, May 19th, until 7pm,  for non-residents to come in and get their membership pass ID photos taken.
-* 2015 pool members will not have to retake a photo. Your pass from last year will be reactivated when your registration is processed.
+* 2016 pool members will not have to retake a photo. Your pass from last year will be reactivated when your registration is processed.
 * If you are a new member this year, every member of your family who will be getting a pass will need to come in and get a photo ID.
 * Membership cards are NOT TRANSFERABLE.
 * Misuse will result in loss of membership.
