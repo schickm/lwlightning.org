@@ -23,7 +23,7 @@ comments: []
 
 ### Registration
 
-You can now register online until May 22nd (the 1st day of stroke clinic)! <a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206701'>Click here to register for Stroke Clinic on the Village of Lincolnwood website.</a>
+You can now register online until May 22nd (the 1st day of stroke clinic)! <a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206611'>Click here to register for Stroke Clinic on the Village of Lincolnwood website.</a>
 
 Note: _Stroke clinic is required for new swim team members._
 
