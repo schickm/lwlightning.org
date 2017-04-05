@@ -60,7 +60,7 @@ You will be able to add your children 18 -24 living in your home (billed as indi
 
 You will be able to register as a senior couple at a discount. You need to be 55 years of age or older. If you are not 55 or older and try to register for a senior pass, the system will deny registration
 
-#### 2014 Non-Resident Aquatic Center Membership Fees
+#### 2017 Non-Resident Aquatic Center Membership Fees
 
 * Individual $326
 * Senior $231
