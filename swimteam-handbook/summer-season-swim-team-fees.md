@@ -53,7 +53,7 @@ New this year: You can register online until May 23rd
 
 You can also register after May 23rd by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
 
-<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2016 Fillable Registration Form</a>
+<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2017 Fillable Registration Form</a>
 
 ### New to the Lightning Team?
 
