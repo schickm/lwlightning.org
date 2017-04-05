@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swim Team Fees
-title_small: 2016
+title_small: 2017
 author:
   display_name: jim
   login: jim
@@ -19,7 +19,7 @@ tags: []
 comments: []
 ---
 
-#### 2016 Swim Team Program # 206702.B
+#### 2016 Swim Team Program # 206610-A
 <table class='table'>
 <tbody>
 <tr>
@@ -31,17 +31,17 @@ comments: []
 </tr>
 <tr>
 <th>Resident</th>
-<td>$230</td>
-<td>$210</td>
-<td>$195</td>
-<td>$195</td>
+<td>$240</td>
+<td>$220</td>
+<td>$205</td>
+<td>$205</td>
 </tr>
 <tr>
 <th>Non-Resident</th>
-<td>$290</td>
-<td>$270</td>
-<td>$255</td>
-<td>$255</td>
+<td>$300</td>
+<td>$280</td>
+<td>$265</td>
+<td>$265</td>
 </tr>
 </tbody>
 </table>
@@ -49,7 +49,7 @@ comments: []
 ### Registration 
 New this year: You can register online until May 23rd
 
-<a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206702'>Click here to register online for Swim Team at the Village of Lincolnwood website</a>.
+<a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206610'>Click here to register online for Swim Team at the Village of Lincolnwood website</a>.
 
 You can also register after May 23rd by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
 
@@ -57,13 +57,13 @@ You can also register after May 23rd by printing out the form below.  Once compl
 
 ### New to the Lightning Team?
 
-You must also register for stroke clinic.  This can also be done online before May 23rd.  <a href='https://connect001.rectrac.com/wbwsc/illincoln_1.wsc/wbsearch.html?xxmod=AR&xxactivitynumber=206701'>Click here to register for Lincolnwood Stroke Clinic</a>
+You must also register for stroke clinic.  This can also be done online before May 23rd.  <a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206611'>Click here to register for Lincolnwood Stroke Clinic</a>
 
 Incentive: Receive $10 off swim team when registering for stroke clinic.
 For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-9740
 
 #### More Info
 
-This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2016 Summer Program</a>
+This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2017 Summer Program</a>
 
 Scroll to <strong>Page 16</strong>
