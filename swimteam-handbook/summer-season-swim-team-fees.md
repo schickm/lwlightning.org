@@ -66,4 +66,4 @@ For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-97
 
 This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2017 Summer Program</a>
 
-Scroll to <strong>Page 16</strong>
+Scroll to <strong>Page 18</strong>
