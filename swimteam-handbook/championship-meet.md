@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-The 2016 "A" Division Championship Meet is being hosted by the  ROUND LAKE on July 27TH.  All teams in "A" division will compete.
+The 2017 "A" Division Championship Meet is being hosted by the  MT. PROSPECT on July 26TH.  All teams in "A" division will compete.
 
 Our parents and staff may be asked by the host to  volunteer to time or put labels on our own awards.  Parent  Participation is the key to a successful meet.  We will need a few volunteers for this meet. Their entire pool will be closed on this day  . Please volunteer in our June & July meets in order to find what you will do at our championship meet.
 
@@ -32,4 +32,4 @@ It is at the discretion of the coaches as to who will swim in the championship m
 
 On meet days swimmers should bring warm clothing since it tends to get chilly in the late afternoon & evening. Please have all articles of clothing marked with swimmers name and team. Sleeping bags and blankets are encouraged for all meets.  All swimmers must check in and out with their coach at home and away meets.
 
-Swimmers should bring a healthy snack or money to purchase food.
+Swimmers should bring a healthy snacks or money to purchase food.
