@@ -32,4 +32,4 @@ It is at the discretion of the coaches as to who will swim in the championship m
 
 On meet days swimmers should bring warm clothing since it tends to get chilly in the late afternoon & evening. Please have all articles of clothing marked with swimmers name and team. Sleeping bags and blankets are encouraged for all meets.  All swimmers must check in and out with their coach at home and away meets.
 
-Swimmers should bring a healthy snacks or money to purchase food.
+Swimmers should bring healthy snacks or money to purchase food.
