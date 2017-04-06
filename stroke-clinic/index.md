@@ -32,7 +32,7 @@ Note: _Stroke clinic is required for new swim team members._
 
 Our clinic is designed to accommodate swimmers that have a basic ability of freestyle and backstroke and not recommended for those who wish a learn to swim program. Our swim team has swimmers from 5 yrs to 18 yrs and all have different levels of accomplishment
 
-If you have any questions or concerns please contact Jim ( below the <a title="Registration &amp; Schedule" href="/stroke-clinic/registration-schedule/">schedule</a>) for more information prior to registration.
+If you have any questions or concerns please Email Jim at babaramdas4@gmail.com for more information prior to registration.
 
 Our main goal is to make the transition from short course (25yd pools) to our long course pool, 50 meters. We do this by giving each swimmer the opportunity to improve their skills and technique so that they may swim more efficiently (with less struggle and less wasted energy) This will give each swimmer the opportunity to have more fun with less effort this summer.
 
