@@ -19,6 +19,9 @@ categories:
 tags: []
 comments: []
 ---
-<a href="/files/2016%20June%20Lightning%20Calendar.pdf">2016 June Lightning Calendar</a>
+<a href="/files/2017%20June%20Lightning%20Calendar.pdf">
+    Click to view/download PDF
+    <img class='calendar-preview' src="/images/calendar_previews/2017%20June%20Lightning%20Calendar.png">
+</a>
 
-<a href="/files/2016%20July%20Lightning%20Calendar.pdf">2016 July Lightning Calendar</a>
+
