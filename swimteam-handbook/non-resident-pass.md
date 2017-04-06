@@ -22,7 +22,7 @@ comments: []
 ---
 
 
-Non-Residents can register online by going to <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/">http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/</a>, beginning 10:00am on Saturday, April 22nd 2017. It is extremely important to have all information ready at the time of registration.
+Non-Residents can register online by going to <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/facilities/aquatic-center/">the Aquatic Center page of the Lincolnwood website</a>, beginning 10:00am on Saturday, April 22nd 2017. It is extremely important to have all information ready at the time of registration.
 
 Please check this website approximately two weeks prior for more information.
 
