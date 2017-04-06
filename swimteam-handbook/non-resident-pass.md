@@ -26,8 +26,6 @@ Non-Residents can register online by going to <a href="http://www.lincolnwoodil.
 
 Please check this website approximately two weeks prior for more information.
 
-Summer Lincolnwood Program Guide
-
 ###  General Pool Pass Info
 
 * Online registration will be on a first come - first served basis until passes are sold out.
