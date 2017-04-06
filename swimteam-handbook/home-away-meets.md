@@ -31,7 +31,7 @@ Swimmers who forget to sign up may still be eligible to swim, provided there are
 
 Meets usually last 3 hours with warm ups at 4:30 and the meet beginning around 5:30pm.
 
-Club Meets will be scheduled on Wednesday evenings; <strong>Again This Year :3 Meets for our younger swimmers on some weekends.<strong> Calendars are available at the pool. Meet information will also be posted to the left of the guard office door &amp; on this website.
+Club Meets will be scheduled on Wednesday evenings; <strong>Again This Year We Have 3 Meets for our younger swimmers on some weekends.<strong> Refer to our Calendar on this site. 
 
 Swimmers may swim maximum of 4 events:
 
@@ -54,4 +54,4 @@ Usually after home meets, Swimmers and families satisfy their appetites with piz
 
 #### Away meets
 
-We will provide one way transportation to the away meets unless you are notified by email. A sign up sheet is usually in the all purpose room at the pool during the week prior to the meet. Please make sure you are on the "Email list". The bus leaves from the lot in front of the pool. Parents are encouraged to attend in order to watch their swimmers participate and bring them home.&nbsp; When necessary transportation can be provided to and from the meet. &nbsp; Directions to Away Meets are provided in the "Maps" section of this website.
+We will provide one way transportation to the away meets unless you are notified by email. All Meet sign ups are done on line at the beginning of the season using a link provided. Any Changes on line must be made the week prior to the meet. These changes affect the entire age group your swimmer is in. A lot of entries including relays must be altered by the coach Please make sure you are on the "Email list". The bus leaves from the lot in front of the pool. Parents are encouraged to attend in order to watch their swimmers participate and bring them home.&nbsp; When necessary transportation can be provided to and from the meet. &nbsp; Directions to Away Meets are provided in the "Maps" section of this website.
