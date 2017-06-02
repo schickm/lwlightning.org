@@ -33,8 +33,14 @@ at Buffalo Grove
 ### July 5th
 At Lincolnwood vs Round Lake (4pm Linc Warm Up)
 
+### July 8th
+At Lincolnwood (Intersquad) 7:30am warm up
+
 ### July 12th
 At Lincolnwood vs McHenry (4pm Linc Warm Up)
+
+### July 15th
+At Lincolnwood (Intersquad) 7:30am warm up
 
 ### July 18th
 At Lincolnwood vs Arl. Heights (4pm Linc Warm Up)
