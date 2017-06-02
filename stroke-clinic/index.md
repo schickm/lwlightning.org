@@ -38,28 +38,31 @@ Our main goal is to make the transition from short course (25yd pools) to our lo
 
 The progression through the 4 strokes: stroke technique, reviewing drills, stroke components, starts, turns and finishes -- is designed for those that already have a basic skill level and development of the four strokes. Not everyone is ready for the more advanced strokes and drills. Our goal is to expose everyone to all four strokes and introduce the beginning swimmer to some of the components of these strokes, as they are ready for them. During any session there will always be some freestyle for all levels and in each successive session, new strokes and techniques will be added as swimmers progress at their own pace through the strokes they are ready for.
 
-#### Session 1 Freestyle 5/22 &amp; 23
+#### No Clinic Monday 5/29 Memorial Day !!
+
+#### Session 1 Freestyle 5/30 &amp; 31
 
 The first 2 days will be devoted to Freestyle only, for everyone. We will have lanes from beginning levels to advanced. Coaches may adjust swimmers to other lanes from time to time during these 2 weeks depending on the skills the coach feels an individual swimmer needs to work on.
 
-#### Session 2 Backstroke 5/24, &amp; 25
+#### Session 2 Backstroke 6/1, &amp; 2
 
 We will continue freestyle and also begin Backstroke for those ready, as well as introduce backstroke stroke components to some beginning levels.
 
-#### Begin Session 3 Breaststroke Friday 5/26
+#### Week 2  Note TIME CHANGE FOR THIS WEEK  NO REGULAR SWIM TEAM PRACTICE this week
+The pool is open to the public this week -- we meet in the concession area before clinic begins
+
+#### Begin Session 3 Breaststroke Monday 5:00 PM 6/5
 
 We will continue freestyle and backstroke and also begin Breaststroke for those ready
 
-#### No Clinic Monday 5/29 Memorial Day !!
-
-#### Continue Session 3 Breaststroke Tuesday 5/30  (Fri. &amp; Tues.)
+#### Continue Session 3 Breaststroke Tuesday 5:00 PM 6/6 
 
 We will continue freestyle and backstroke and also begin Breaststroke for those ready, as well as introduce limited breaststroke components to some beginning levels.
 
-#### Session 4 Butterfly 5/31 &amp; 6/1
+#### Session 4 Butterfly 5:00 PM 6/7 &amp; 6/8
 
 We will continue freestyle, backstroke and breaststroke and also begin Butterfly for those ready as well as introduce limited Butterfly components to some beginning levels.
 
-#### Starts &amp; Turns 6/2
+#### Starts &amp; Turns 5:00 PM 6/9
 
-Starts and turns may also be covered by the coaches during each stroke session at their discretion.
+Last Day - Starts and turns may also be covered by the coaches during each stroke session at their discretion.
