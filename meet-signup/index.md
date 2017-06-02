@@ -25,13 +25,11 @@ Below are the parent volunteer links, we ask that you volunteer for at least two
 
 NOTE: You can only signup for volunteering from a laptop or desktop computer.&nbsp; If you can't signup for any reason, then just email Jim directly with the dates and positions you'd like to volunteer for.&nbsp; Jim's email: <a href="mailto:babaramdas4@gmail.com">babaramdas4@gmail.com</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1r_dxO6ikjlWhi-R2gfoBKDecdO0VFj07l51xyDBmdB8/edit?usp=sharing">6/29 River Trails</a>
+<a href="https://docs.google.com/spreadsheets/d/1AYolJggZE-agYkMRzdKaoC3wvi4m5nQHc57HbNnbLU4/edit?usp=sharing">7/5 Round Lake</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1sp74xqqksSDDLqimeeSCKRPercrkB6ULKmCZhVxi9k0/edit?usp=sharing">7/13 TBA with Mt. Prospect</a>
+<a href="https://docs.google.com/spreadsheets/d/1ET7365V9LtTgh1XBvpMkqV4SFa6_4VM0pdPHIO4cCnY/edit?usp=sharing">7/12 McHenry</a>
 
-<a href="https://docs.google.com/spreadsheets/d/1VN01MGi_c_SZ6yobJKZic5E6L60tg7VYKAsWjM3lduE/edit?usp=sharing">7/22 Buffalo Grove</a>
-
-<a href="https://docs.google.com/spreadsheets/d/1nAHsY7q222BoMmVoVzAffcvgSLJjUnwacmEnRcQ3iPc/edit?usp=sharing">7/29 "A" Division Championships</a>
+<a href="https://docs.google.com/spreadsheets/d/1VN01MGi_c_SZ6yobJKZic5E6L60tg7VYKAsWjM3lduE/edit?usp=sharing">7/19 Arlington Heights</a>
 
 <h2>Meet Sign Up</h2><br />
 So that we can create the best lineup for our meets, please fill out the form linked below to tell us which meets your child will or will not be able to attend. &nbsp;If you have multiple children, please fill it out once for each child. &nbsp;Upon completion you will be emailed with a confirmation. &nbsp;Should you ever need to change your responses, please follow the link in the confirmation email to edit your responses. &nbsp;Do not go and fill out the form again.&nbsp; Also, this should be accessible from any phone/tablet/desktop.
@@ -41,5 +39,5 @@ So that we can create the best lineup for our meets, please fill out the form li
 <h2>BBQ Potluck Sign Up</h2><br />
 Below is a link to the spread sheet where you can let us know what you'll be bringing for the BBQ.
 
-<a href="https://docs.google.com/spreadsheets/d/18im6LQcNcJNLGBPuotib6bwwHymF01F8zl6Ogd4dgI4/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
+<a href="https://docs.google.com/spreadsheets/d/1E5CpodN0ZcyDSt3AqPWTs47sJmx3lGE30cKjiOe4o1c/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
 
