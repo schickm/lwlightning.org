@@ -26,7 +26,7 @@ Round Lake, IL  60073<br>
 * Edens (94) Expressway to 94 Tollway going North
 * Exit at 120 West Belvidere Rd  ( for about 11 miles)
 * Turn right on Route134 ( for about 2 miles)
-* Turn Left  onto Hart Road  
+* Turn Left onto Hart Road  
 * Pool is on the right side  
 * Parking is available in lots on both sides of the street
 

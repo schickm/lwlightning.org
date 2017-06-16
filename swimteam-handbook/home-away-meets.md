@@ -46,7 +46,17 @@ Swimmers should bring a healthy snack or money to purchase food.
 
 #### Home meets
 
-In order to run a successful home meet, we need PARENT participation! We need help from everyone! In order for swimmers to participate in our meets parents need to make an effort to volunteer. Some volunteer positions include timing, officiating, ribbons, bull pen, runners, announcing, meet set up, meet take down, and swimmer supervision.
+Our home meets are a great experience for swimmers. We love exposing them to good competition right at our own pool! 
+
+In order to continue to host though, we need parent support. Volunteering is required if your athlete is swimming in our home meets. Please feel free to sign up for the area you enjoy by completing the parent volunteer section under meet sign up on the home page of our website!  You will receive a log in by email.
+
+Our returning parents will be happy to help explain the duties of each area. Any unreserved spots will be assigned on a rotating  basis so families can meet their volunteer requirement.
+
+Swimmers may not be allowed in future home meets if parents have not successfully completed their volunteer commitment.
+
+In order to run a successful home meet, we need PARENT participation! We need help from everyone!  Some volunteer positions include timing, officiating, ribbons, bull pen, runners, announcing, meet set up, meet take down, and swimmer supervision. 
+
+If your swimmer is signed up for a home meet we may assign you a volunteer duty if you have not already volunteered. If you cannot be available on the day we assign you it is your obligation to find a substitute volunteer. 
 
 Lincolnwood Parks &amp; Recreation does not allow food and beverages anywhere in the pool area. To accommodate patrons, Lincolnwood Parks &amp; Recreation does allow coolers in the pod &amp; concession area at the end of the pool. A water bottle (NO GLASS) is allowed on deck in the pool area at any time. Patrons who violate the food and beverage rule will be subject to ejection from the pool.
 
