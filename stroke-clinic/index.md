@@ -48,9 +48,6 @@ The first 2 days will be devoted to Freestyle only, for everyone. We will have l
 
 We will continue freestyle and also begin Backstroke for those ready, as well as introduce backstroke stroke components to some beginning levels.
 
-#### Week 2  Note TIME CHANGE FOR THIS WEEK  NO REGULAR SWIM TEAM PRACTICE this week
-The pool is open to the public this week -- we meet in the concession area before clinic begins
-
 #### Begin Session 3 Breaststroke Friday 4:30 PM 5/25
 
 We will continue freestyle and backstroke and also begin Breaststroke for those ready
