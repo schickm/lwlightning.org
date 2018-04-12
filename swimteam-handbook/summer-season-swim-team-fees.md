@@ -57,7 +57,7 @@ You can also register after May 22nd by printing out the form below.  Once compl
 
 ### New to the Lightning Team?
 
-You must also register for stroke clinic.  This can also be done online before May 23rd.  <a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206611'>Click here to register for Lincolnwood Stroke Clinic</a>
+You must also register for stroke clinic.  This can also be done online before May 22rd.  <a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206611'>Click here to register for Lincolnwood Stroke Clinic</a>
 
 Incentive: Receive $10 off swim team when registering for stroke clinic.
 For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-9740
