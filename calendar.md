@@ -19,13 +19,13 @@ categories:
 tags: []
 comments: []
 ---
-<a href="/files/2017%20June%20Lightning%20Calendar.pdf">
+<a href="/files/2018%20June%20Lightning%20Calendar.pdf">
     Click to view/download PDF
-    <img class='calendar-preview' src="/images/calendar_previews/2017%20June%20Lightning%20Calendar.png">
+    <img class='calendar-preview' src="/images/calendar_previews/2018%20June%20Lightning%20Calendar.png">
 </a>
 
-<a href="/files/2017%20July%20Lightning%20Calendar.pdf">
+<a href="/files/2018%20July%20Lightning%20Calendar.pdf">
     Click to view/download PDF
-    <img class='calendar-preview' src="/images/calendar_previews/2017%20July%20Lightning%20Calendar.png">
+    <img class='calendar-preview' src="/images/calendar_previews/2018%20July%20Lightning%20Calendar.png">
 </a>
 
