@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Norridge Park District Pool
+title: Merkel Aquatic Center
 author:
   display_name: jim
   login: jim
@@ -11,7 +11,6 @@ author:
 author_login: jim
 author_email: babaramdas4@comcast.net
 wordpress_id: 46
-wordpress_url: http://lwlightning.org/maps/norridge-park-district-pool/
 date: '2008-03-27 09:28:01 -0700'
 date_gmt: '2008-03-27 17:28:01 -0700'
 categories:
