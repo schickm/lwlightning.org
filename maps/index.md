@@ -26,6 +26,8 @@ comments: []
 
 <strong><a href="/maps/buffalo-grove-willow-stream-pool/">Buffalo Grove - Willow Stream Pool</a></strong>
 
+<strong><a href="/maps/merkel-aquatic-center/">Merkel Aquatic Center</a></strong>
+
 <strong><a href="/maps/mount-prospect-meadows-pool/">Mount Prospect Pool </a></strong>
 
 <strong><a href="/maps/norridge-park-district-pool/">Norridge Park District Pool </a></strong>
