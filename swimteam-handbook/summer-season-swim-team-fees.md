@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swim Team Fees
-title_small: 2017
+title_small: 2018
 author:
   display_name: jim
   login: jim
@@ -19,7 +19,7 @@ tags: []
 comments: []
 ---
 
-#### 2017 Swim Team Program # 206610-A
+#### 2018 Swim Team Program # 206610-A
 <table class='table'>
 <tbody>
 <tr>
@@ -47,13 +47,13 @@ comments: []
 </table>
 
 ### Registration 
-New this year: You can register online until May 23rd
+New this year: You can register online until May 22nd
 
 <a href='https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&amp;module=AR&primarycode=206610'>Click here to register online for Swim Team at the Village of Lincolnwood website</a>.
 
-You can also register after May 23rd by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
+You can also register after May 22nd by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
 
-<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2017 Fillable Registration Form</a>
+<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2018 Fillable Registration Form</a>
 
 ### New to the Lightning Team?
 
@@ -64,6 +64,6 @@ For any registration questions call the Lincolnwood Parks &amp; Rec (847) 677-97
 
 #### More Info
 
-This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2017 Summer Program</a>
+This Years Brochure: <a href="http://www.lincolnwoodil.org/enjoy-lincolnwood/parks-and-recreation/program-guides/">2018 Summer Program</a>
 
 Scroll to <strong>Page 18</strong>
