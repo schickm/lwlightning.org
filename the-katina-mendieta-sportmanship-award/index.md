@@ -34,11 +34,10 @@ Please help us in honoring the memory of our lost team member.
 
 <blockquote class='clearfix'>"Katie is and will always be our brightest star"</blockquote>
 
-## Current Recipients
-
-<img src="/images/katina_mendiata/2016_winners_small.jpeg" />
 
 ## Past Recipients
+
+<img src="/images/katina_mendiata/2016_winners_small.jpeg" />
 
 <img src="/images/katina_mendiata/2015_winners_small.jpeg" />
 
