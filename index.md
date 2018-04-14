@@ -22,11 +22,10 @@ layout: default
 
     </div>
     <div class='col-lg-4 medieta-award-cell'>
-        <h2>Mendieta Award</h2>
-        <p>Last Years Recipients:</p>
+        <h2>Mendieta Award Recipients</h2>
         <p><img src='/images/katina_mendiata/2016_winners_small.jpeg' /></p>
         <p>
-            <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View Past Recipients »</a>
+            <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View More Past Recipients »</a>
         </p>
     </div>
 </div>
