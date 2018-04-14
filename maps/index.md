@@ -26,7 +26,7 @@ comments: []
 
 <strong><a href="/maps/buffalo-grove-willow-stream-pool/">Buffalo Grove - Willow Stream Pool</a></strong>
 
-<strong><a href="/maps/merkel-aquatic-center/">Merkel Aquatic Center</a></strong>
+<strong><a href="/maps/merkel-aquatic-center/">McHenry - Merkel Aquatic Center</a></strong>
 
 <strong><a href="/maps/mount-prospect-meadows-pool/">Mount Prospect Pool </a></strong>
 
