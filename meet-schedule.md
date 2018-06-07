@@ -45,5 +45,5 @@ At Lincolnwood (Intersquad) 7:30am warm up
 ### July 18th
 At River Trails  
 
-### July 26th
-Conference Meet TBA
+### July 25th
+Conference Meet At McHenry
