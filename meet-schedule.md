@@ -30,8 +30,8 @@ At Lincolnwood (Intersquad) 7:30am warm up
 ### June 27th
 At [McHenry](/maps/merkel-aquatic-center/)
 
-### July 2nd  Monday
-At Lincolnwood 4PM to 4:50 Warm up
+### July 2nd Monday
+At Lincolnwood (4PM to 4:50 Warm up, meet start 5pm)
 
 ### July 7th
 At Lincolnwood (Intersquad) 7:30am warm up
