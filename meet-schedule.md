@@ -28,7 +28,7 @@ Arlington Hgts at Lincolnwood (4pm Linc Warm Up)
 At Lincolnwood (Intersquad) 7:30am warm up
 
 ### June 27th
-At McHenry 
+At [McHenry](/maps/merkel-aquatic-center/)
 
 ### July 2nd  Monday
 At Lincolnwood 4PM to 4:50 Warm up
@@ -43,7 +43,7 @@ Buffalo Grove At Lincolnwood (4pm Linc Warm Up)
 At Lincolnwood (Intersquad) 7:30am warm up
 
 ### July 18th
-At River Trails  
+At [River Trails](/maps/woodland-trails/)  
 
 ### July 25th
-Conference Meet At McHenry
+Conference Meet At [McHenry](/maps/merkel-aquatic-center/)
