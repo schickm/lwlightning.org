@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Woodland Trails
+title: River Trail Woodland Pool
 author:
   display_name: jim
   login: jim
