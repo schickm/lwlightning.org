@@ -18,15 +18,8 @@ layout: default
                 scrolling="no"></iframe>
 
     </div>
-    <div class='col-lg-4'>
-
-    </div>
-    <div class='col-lg-4 medieta-award-cell'>
-        <h2>Mendieta Award Recipients</h2>
-        <p><img src='/images/katina_mendiata/2016_winners_small.jpeg' /></p>
-        <p>
-            <a href='/the-katina-mendieta-sportmanship-award/' class='btn btn-primary'>View More Past Recipients »</a>
-        </p>
+    <div class='col-lg-8'>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/l0u5mxsIxHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 </div>
 <div class='row'>
