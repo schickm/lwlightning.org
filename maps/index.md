@@ -22,6 +22,8 @@ comments: []
 
 <strong><a href="/maps/lincolnwood-pool/">Lincolnwood Pool</a></strong>
 
+<strong><a href="/maps/antioch/">Antioch Aqua Center</a></strong>
+
 <strong><a href="/maps/arlington-heights-park-district-pool/">Arlington Heights Park District Pool</a></strong>
 
 <strong><a href="/maps/buffalo-grove-willow-stream-pool/">Buffalo Grove - Willow Stream Pool</a></strong>

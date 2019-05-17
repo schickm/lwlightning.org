@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Schedule
-title_small: 2018
+title_small: 2019
 author: 
   display_name: jim
   login: jim
@@ -21,29 +21,29 @@ tags: []
 comments: []
 ---
 
-### June 20th 
-Arlington Hgts at Lincolnwood (4pm Linc Warm Up)
+### June 19th 
+Buffalo Grove At Lincolnwood - Afternoon
 
-### June 23rd
-At Lincolnwood (Intersquad) 7:30am warm up
+### June 22nd
+At Lincolnwood (Intersquad) 7-10AM
 
-### June 27th
-At [McHenry](/maps/merkel-aquatic-center/)
+### June 26th
+At [Antioch](/maps/antioch/)
 
-### July 2nd Monday
-At Lincolnwood (4PM to 4:50 Warm up, meet start 5pm)
+### June 29th
+At Lincolnwood (Intersquad) 7-10AM
 
-### July 7th
-At Lincolnwood (Intersquad) 7:30am warm up
+### July 3rd 
+McHenry At Lincolnwood - Afternoon
 
-### July 11th
-Buffalo Grove At Lincolnwood (4pm Linc Warm Up)
+### July 10th
+At [Arlington](/maps/arlington/) - Afternoon
 
-### July 14th
-At Lincolnwood (Intersquad) 7:30am warm up
+### July 13th
+At Lincolnwood (Intersquad) - Afternoon
 
-### July 18th
-At [River Trails](/maps/woodland-trails/)  
+### July 17th
+River Trails At Lincolnwood - Afternoon
 
-### July 25th
-Conference Meet At [McHenry](/maps/merkel-aquatic-center/)
+### July 24th
+Division Championship @ TBA
