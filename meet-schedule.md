@@ -22,28 +22,28 @@ comments: []
 ---
 
 ### June 19th 
-Buffalo Grove At Lincolnwood - Afternoon
+Buffalo Grove At Lincolnwood -  - WU (LW 4pm BG 4:30)  5pm start
 
 ### June 22nd
-At Lincolnwood (Intersquad) 7-10AM
+At Lincolnwood (Intersquad) 7:30 WU  8-10AM Meet
 
 ### June 26th
-At [Antioch](/maps/antioch/)
+At [Antioch]  Afternoon (/maps/antioch/)
 
 ### June 29th
-At Lincolnwood (Intersquad) 7-10AM
+At Lincolnwood (Intersquad) 7:30 WU  8-10AM Meet
 
 ### July 3rd 
-McHenry At Lincolnwood - Afternoon
+McHenry At Lincolnwood -  - WU (LW 4pm McH 4:30)  5pm start
 
 ### July 10th
 At [Arlington](/maps/arlington/) - Afternoon
 
 ### July 13th
-At Lincolnwood (Intersquad) - Afternoon
+At Lincolnwood (Intersquad) -  7:30 WU  8-10AM Meet
 
 ### July 17th
-River Trails At Lincolnwood - Afternoon
+River Trails At Lincolnwood - WU (LW 4pm RT 4:30)  5pm start
 
 ### July 24th
 Division Championship @ TBA
