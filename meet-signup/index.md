@@ -34,15 +34,13 @@ NOTE: You can only signup for volunteering from a laptop or desktop computer.&nb
 <h2>Meet Sign Up</h2><br />
 So that we can create the best lineup for our meets, please fill out the form linked below to tell us which meets your child will or will not be able to attend. &nbsp;If you have multiple children, please fill it out once for each child. &nbsp;Upon completion you will be emailed with a confirmation. &nbsp;Should you ever need to change your responses, please follow the link in the confirmation email to edit your responses. &nbsp;Do not go and fill out the form again.&nbsp; Also, this should be accessible from any phone/tablet/desktop.
 
-TBA
-<!--
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfnGTHDGRGCjN4p41Kr9R2EF76pv0SDDbRVzHRb0oSu6Tvnpw/viewform?usp=sf_link">Click here to fill out the Meet Signup Form</a>
--->
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSds2ryTzG9gl0ZwUnnP0BcqVhxR6bfwxWpSu9WNwE_UQPPtaQ/viewform?usp=sf_link">Click here to fill out the Meet Signup Form</a>
+
 
 <h2>BBQ Potluck Sign Up</h2><br />
 Below is a link to the spread sheet where you can let us know what you'll be bringing for the BBQ.
 
-TBA
-<!--
-<a href="https://docs.google.com/spreadsheets/d/15LxBJz0mxsF_UmkeRzXDYIk8q7FEm7kXdRfB9_LULTY/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
--->
+
+<a href="https://docs.google.com/spreadsheets/d/17st4w40u4nAQcZULtLltWeruwZDdVJyfbb1lg3wj3-s/edit?usp=sharing">Click here to fill out the BBQ Potluck Signup</a>
+
