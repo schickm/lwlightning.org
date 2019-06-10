@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Signup
-title_small: 2018
+title_small: 2019
 author:
   display_name: jim
   login: jim
@@ -23,7 +23,7 @@ comments: []
 
 Below are the parent volunteer links, we ask that you volunteer for at least two meets. &nbsp;Without parents we could never host a meet. &nbsp;There are a variety of positions. We only&nbsp;request&nbsp;volunteers for weekday home meets.
 
-NOTE: You can only signup for volunteering from a laptop or desktop computer.&nbsp; If you can't signup for any reason, then just email Jim directly with the dates and positions you'd like to volunteer for.&nbsp; Jim's email: <a href="mailto:babaramdas4@gmail.com">babaramdas4@gmail.com</a>
+NOTE: You can only signup for volunteering from a laptop or desktop computer.&nbsp; If you can't signup for any reason, then just email Annika directly with the dates and positions you'd like to volunteer for.&nbsp; Annika's email: <a href="mailto:annika.schick@gmail.com">annika.schick@gmail.com</a>
 
 <a href="https://docs.google.com/spreadsheets/d/1CZbBtPvibpRYKi37yAQUg255bCgd2E6-u04-xLWlZy8/edit?usp=sharing">6/19 Buffalo Grove</a>
 
@@ -32,7 +32,7 @@ NOTE: You can only signup for volunteering from a laptop or desktop computer.&nb
 <a href="https://docs.google.com/spreadsheets/d/1tFvfGvwhAKxcQkGBl66vndRf75jKU42xxeT7T4nSneg/edit?usp=sharing">7/17 River Trails</a>
 
 <h2>Meet Sign Up</h2><br />
-So that we can create the best lineup for our meets, please fill out the form linked below to tell us which meets your child will or will not be able to attend. &nbsp;If you have multiple children, please fill it out once for each child. &nbsp;Upon completion you will be emailed with a confirmation. &nbsp;Should you ever need to change your responses, please follow the link in the confirmation email to edit your responses. &nbsp;Do not go and fill out the form again.&nbsp; Also, this should be accessible from any phone/tablet/desktop.
+So that we can create the best lineup for our meets, please fill out the form linked below to tell us which meets your child will or will not be able to attend. &nbsp;If you have multiple children, please fill it out once for each child. &nbsp;Upon completion you will be emailed with a confirmation. &nbsp;Should you ever need to change your responses, please follow the link in the confirmation email to edit your responses. &nbsp;PLEASE !! Do not fill out the form a second time.&nbsp; Also, this should be accessible from any phone/tablet/desktop.
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSds2ryTzG9gl0ZwUnnP0BcqVhxR6bfwxWpSu9WNwE_UQPPtaQ/viewform?usp=sf_link">Click here to fill out the Meet Signup Form</a>
