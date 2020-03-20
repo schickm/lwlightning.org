@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Meet Signup
-title_small: 2020
+title_small: 2019
 author:
   display_name: jim
   login: jim
