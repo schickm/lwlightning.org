@@ -21,6 +21,6 @@ comments: []
 ---
 <a href="/files/2020%20Lightning%20Calendar.pdf">
     Click to view/download PDF
-    <img class='calendar-preview' src="/images/calendar_previews/2020Lightning%20Calendar.jpg">
+    <img class='calendar-preview' src="/images/calendar_previews/2020%20Lightning%20Calendar.jpg">
 </a>
 
