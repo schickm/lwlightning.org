@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Swim Team Fees
-title_small: 2018
+title_small: 2020
 author:
   display_name: jim
   login: jim
@@ -31,17 +31,17 @@ comments: []
 </tr>
 <tr>
 <th>Resident</th>
-<td>$240</td>
-<td>$220</td>
-<td>$205</td>
-<td>$205</td>
+<td>$257</td>
+<td>ASK</td>
+<td>ASK</td>
+<td>ASK</td>
 </tr>
 <tr>
 <th>Non-Resident</th>
-<td>$300</td>
-<td>$280</td>
-<td>$265</td>
-<td>$265</td>
+<td>$321</td>
+<td>ASK</td>
+<td>ASK</td>
+<td>ASK</td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@ New this year: You can register online until May 22nd
 
 You can also register after May 22nd by printing out the form below.  Once completed, it can be faxed, mailed, or brought in person to the contact details listed on the form.
 
-<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2018 Fillable Registration Form</a>
+<a href="/wp-content/uploads/2008/04/2014-Fillable-Registration-Form.pdf">2020 Fillable Registration Form</a>
 
 ### New to the Lightning Team?
 
