@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Stroke Clinic
-title_small: 2018
+title_small: 2020
 author:
   display_name: jim
   login: jim
@@ -40,7 +40,7 @@ The progression through the 4 strokes: stroke technique, reviewing drills, strok
 
 #### No Clinic Monday 5/28 Memorial Day !!
 
-#### Session 1 Freestyle 4:30 PM 5/21 &amp; 22
+#### Session 1 Freestyle 4:30 PM 5/18 &amp; 22
 
 The first 2 days will be devoted to Freestyle only, for everyone. We will have lanes from beginning levels to advanced. Coaches may adjust swimmers to other lanes from time to time during these 2 weeks depending on the skills the coach feels an individual swimmer needs to work on.
 
