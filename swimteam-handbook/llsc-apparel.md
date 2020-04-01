@@ -19,6 +19,8 @@ categories:
 tags: []
 comments: []
 ---
-All Swimmers will receive one Lincolnwood Lightning T-Shirt, Swim Suit, and Cap. Our suits are scheduled to be delivered around the 17th of June. Please try and attend around this time, or let a coach know your suit size. LLSC apparel will only be distributed to those who have registered.
+ 2020 fees include training, meet fees, transportation, t shirt and swim cap.   
+ Team  Suits and optional gear will be available online soon 
+ LLSC apparel will only be distributed to those who have registered.
 
 Additional Lightning Apparel can be ordered from our site and delivered to your home at any time. You can view these items in <a title="Lincolnwood Gear" href="/lincolnwood-gear.html">Lincolnwood Gear</a>.
