@@ -21,29 +21,26 @@ tags: []
 comments: []
 ---
 
-### June 19th 
-Buffalo Grove At Lincolnwood -  - WU (LW 4pm BG 4:30)  5pm start
+### June 10th 
+Mandatory Inter-Squad Meet at Lwood -  - WU  4:30  5pm start
 
-### June 22nd
-At Lincolnwood (Intersquad) 7:30 WU  8-10AM Meet
+### June 17th 
+Lincolnwood at McHenry -  - WU (LW 4:30)  5pm start
 
-### June 26th
-At [Antioch]  Afternoon (/maps/antioch/)
+### June 24th
+Norridge at Lincolnwood -  - WU (LW 4pm, Nor 4:30)  5pm start
 
-### June 29th
-At Lincolnwood (Intersquad) 7:30 WU  8-10AM Meet
+### July 1st 
+Lincolnwood at Buffalo Grove -  - WU (LW 4:30)  5pm start
 
-### July 3rd 
-McHenry At Lincolnwood -  - WU (LW 4pm McH 4:30)  5pm start
+### July 8th
+Arlington at Lincolnwood -  - WU (LW 4pm, Nor 4:30)  5pm start
 
-### July 10th
-At [Arlington](/maps/arlington/) - Afternoon
-
-### July 13th
+### July 11th  TBA  Not Scheduled Yet
 At Lincolnwood (Intersquad) -  7:30 WU  8-10AM Meet
 
-### July 17th
+### July 15th
 River Trails At Lincolnwood - WU (LW 4pm RT 4:30)  5pm start
 
-### July 24th
-Division Championship @ TBA
+### July 22nd
+Division Championship @ McHenry WU AM   1pm Start
