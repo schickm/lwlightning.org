@@ -7,6 +7,17 @@ layout: default
 </div>
 
 <div class='row'>
+    <div class='col-lg-12'>
+        <p style='text-align: center; background-color: #ffff0087;'>
+            &#9888; 
+            All Schedules are Subject to Change due to COVID 19. 
+            If you have registered you will receive updates.
+            Otherwise check the site regularly for changes
+            &#9888;
+        </p>
+    </div>
+<div>
+<div class='row'>
     <div class='col-lg-4'>
         <h2>Upcoming Events</h2>
         <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=r44o6u4ceeoeji3e26n2pdm0do%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FMexico_City"
@@ -21,6 +32,10 @@ layout: default
     <div class='col-lg-8'>
         <h2>Some fun at the pool</h2>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/l0u5mxsIxHI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+        <h2>
+    	    2020 Registration is Open
+            <a href="https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&module=AR&primarycode=206610">CLICK HERE</a> 
+        </h2>
     </div>
 </div>
 <div class='row'>
