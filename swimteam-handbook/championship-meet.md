@@ -20,7 +20,7 @@ categories:
 tags: []
 comments: []
 ---
-The 2020 "A" Division Championship Meet is being hosted by the  McHENRY on July 22ND.  All teams in "A" division will compete.
+The 2020 "A" Division Championship Meet is being hosted by the  McHENRY on July 22nd.  All teams in "A" division will compete.
 
 Our parents and staff may be asked by the host to  volunteer to time or put labels on our own awards.  Parent  Participation is the key to a successful meet.  We will need a few volunteers for this meet. Their entire pool will be closed on this day  . Please volunteer in our June & July meets in order to find what you will do at our championship meet.
 
