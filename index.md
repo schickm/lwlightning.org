@@ -36,6 +36,10 @@ layout: default
     	    2020 Registration is Open
             <a href="https://web1.vermontsystems.com/wbwsc/illincolnwoodwt.wsc/search.html?SessionID=%3C?VSI%E2%80%90SessionID?%3E&module=AR&primarycode=206610">CLICK HERE</a> 
         </h2>
+        <h2>
+    	    Questions?
+            <a href="/swimteam-handbook/communication.html">CLICK HERE</a> 
+        </h2>
     </div>
 </div>
 <div class='row'>
