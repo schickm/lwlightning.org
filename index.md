@@ -38,7 +38,7 @@ layout: default
         </h2>
         <h2>
     	    Questions?
-            <a href="/swimteam-handbook/communication.html">CLICK HERE</a> 
+            <a href="/swimteam-handbook/communication/">CLICK HERE</a> 
         </h2>
     </div>
 </div>
