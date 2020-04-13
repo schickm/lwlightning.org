@@ -3,7 +3,7 @@ layout: page
 status: publish
 published: true
 title: Championship Meet
-title_small: 2016
+title_small: 2020
 author:
   display_name: jim
   login: jim
