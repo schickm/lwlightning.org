@@ -65,7 +65,7 @@ Also the lanes you swim in may change due to the group size for that morning, bu
 <table class='table'>
     <tbody>
         <tr>
-        <td>6:00</td>
+        <td>7:30</td>
         <td>Senior &amp; Gold</td>
         <td>Lanes 1, 2, 4, 5, 6</td>
         </tr>
