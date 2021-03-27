@@ -10,7 +10,7 @@ layout: default
     <div class='col-lg-12'>
         <p style='text-align: center; background-color: #ffff0087;'>
             &#9888; 
-            All Schedules are Subject to Change due to COVID 19. 
+            2021 Info found on our new site www.lwswim.org 
             If you have registered you will receive updates.
             Otherwise check the site regularly for changes
             &#9888;
