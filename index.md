@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<script type = "text/javascript">
+            setTimeout(function() {
+               window.location = "http://lwswim.org";
+            }, 5000);
+</script>
 <div class='jumbotron'>
     <h1>Lincolnwood Lightning Swim Club</h1>
 </div>
@@ -12,7 +16,9 @@ layout: default
             &#9888; 
             2021 Info found on our new site www.lwswim.org 
             If you have registered you will receive updates.
-            Otherwise check the site regularly for changes
+            Otherwise check the site regularly for changes.<br/> <br/>
+            
+            
             &#9888;
         </p>
     </div>
