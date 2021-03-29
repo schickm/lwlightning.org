@@ -20,6 +20,7 @@ layout: default
                                 &#9888;
         </p>
         <p style='text-align: center; background-color: #ffff0087;'>
+                                                    &#9888;
             You'll be automatically redirected in a few seconds!
             &#9888;
         </p>
