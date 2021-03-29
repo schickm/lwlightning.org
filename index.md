@@ -18,7 +18,7 @@ layout: default
             If you have registered you will receive updates.
             Otherwise check the site regularly for changes.<br/> <br/>
             
-            
+            You'll be automatically redirected in a few seconds!
             &#9888;
         </p>
     </div>
