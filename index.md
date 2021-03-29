@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<script type = "text/javascript">
-            setTimeout(function() {
-               window.location = "http://lwswim.org";
-            }, 5000);
-</script>
+
 <div class='jumbotron'>
     <h1>Lincolnwood Lightning Swim Club</h1>
 </div>
@@ -14,16 +10,12 @@ layout: default
     <div class='col-lg-12'>
         <p style='text-align: center; background-color: #ffff0087;'>
             &#9888; 
-            2021 Info found on our new site www.lwswim.org 
+            2021 Info found on our new site <a href="http://www.lwswim.org">www.lwswim.org</a>
             If you have registered you will receive updates.
             Otherwise check the site regularly for changes.
-                                &#9888;
-        </p>
-        <p style='text-align: center; background-color: #ffff0087;'>
-                                                    &#9888;
-            You'll be automatically redirected in a few seconds!
             &#9888;
         </p>
+     
     </div>
 <div>
 <div class='row'>
