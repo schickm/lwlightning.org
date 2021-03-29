@@ -16,8 +16,10 @@ layout: default
             &#9888; 
             2021 Info found on our new site www.lwswim.org 
             If you have registered you will receive updates.
-            Otherwise check the site regularly for changes.<br/> <br/>
-            
+            Otherwise check the site regularly for changes.
+                                &#9888;
+        </p>
+        <p style='text-align: center; background-color: #ffff0087;'>
             You'll be automatically redirected in a few seconds!
             &#9888;
         </p>
